@@ -12,7 +12,7 @@ namespace Projeto1
         static void Main(string[] args)
         {
             Item canetaAzul = new Item("Caneta Azul", 50);
-            canetaAzul.retirarItem(60);
+            canetaAzul.retirarItem(60); //Testado com 10, -5 e 60 para percorrer as possibilidades.
             canetaAzul.ExibirDados();
         }
     }
