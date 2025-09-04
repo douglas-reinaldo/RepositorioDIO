@@ -1,0 +1,9 @@
+Faça a criação de uma classe para gerenciar um projeto com as seguintes propriedades:
+nome: "Aplicativo Mobile"
+orçamento: R$5000,00
+numeroMembrosEquipe: 4
+Adicione esses valores no momento da instanciação da classe.
+Implemente metodos que possam alterar os dados do projeto.
+Com: validação para orçamento e numero de membros positivos,
+calcular o orçamento médio por membro (orçamento/numero de membros).
+O código deve incluir comentários e seguir boas praticas de POO.
